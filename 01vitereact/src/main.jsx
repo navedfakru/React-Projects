@@ -34,6 +34,10 @@ const anotherElement = (
   <a href='https://google.com' target='_blanck'>Visit Google</a>
 )
 
+function Parent() {
+  return [<App />, <App />]
+}
+
 ReactDOM.createRoot(document.getElementById('root')).render(
-  ReactElement
+  <Parent />
 )

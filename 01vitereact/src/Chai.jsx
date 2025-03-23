@@ -1,8 +1,6 @@
-import React from 'react'
-
-function Chai() {
+function Chai(){
   return (
-    <h3>chai is ready</h3>
+    <h3>Chai is ready are you know</h3>
   )
 }
 

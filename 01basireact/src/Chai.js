@@ -1,8 +1,6 @@
-import React from 'react'
-
-function Chai() {
+function Chai(){
   return (
-    <h2>Chai aur react |</h2>
+    <h2>Chai create react app.</h2>
   )
 }
 

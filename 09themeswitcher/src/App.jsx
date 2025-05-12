@@ -8,7 +8,7 @@ function App() {
 
   function lightTheme(){
     setThemeMode("light")
-  }
+  } 
 
   function darkTheme(){
     setThemeMode("dark")
